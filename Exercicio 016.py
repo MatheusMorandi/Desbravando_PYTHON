@@ -1,3 +1,5 @@
+#Exercício Python #016 - Quebrando um número
+
 import math
 
 n = float(input("Digite um número: "))

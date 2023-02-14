@@ -1,4 +1,4 @@
-
+#Exercício Python #006 - Dobro, Triplo, Raiz Quadrada
 
 n = float(input("Digite um número: "))
 

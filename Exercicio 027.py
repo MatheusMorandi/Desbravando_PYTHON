@@ -1,3 +1,5 @@
+#Exercício Python #027 - Primeiro e último nome de uma pessoa
+
 nome = str(input("Digite seu nome completo: ")).title()
 cut = nome.split()
 copy = ".".join(cut)

@@ -1,4 +1,7 @@
+#Exercício Python #037 - Conversor de Bases Numéricas
+
 num = int(input('Digite qualquer número inteiro: '))
+
 choice = int(input('''Escolha uma base para conversão
 [1] Base Binária
 [2] Base Octal

@@ -1,5 +1,9 @@
+#Exercício Python #033 - Maior e menor valores
+
 a = int(input('Digite um número: '))
+
 b = int(input('Digite um número: '))
+
 c = int(input('Digite um número: '))
 
 menor = a

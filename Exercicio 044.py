@@ -1,5 +1,9 @@
+#Exercício Python #044 - Gerenciador de Pagamentos
+
 p = float(input('Digite o preço do seu produto: '))
+
 qp = 0
+
 c = int(input('''Selecione o meio de pagamento: 
 [1] À vista no cheque ou dinheiro (10%) de desconto;
 [2] À vista no cartão (5%) de desconto;

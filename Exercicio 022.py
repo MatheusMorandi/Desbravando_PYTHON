@@ -1,3 +1,5 @@
+#Exercício Python #022 - Analisador de Textos
+
 name = str(input("Digite seu nome completo: "))
 cut = name.split()
 join = "".join(cut)

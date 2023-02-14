@@ -1,3 +1,5 @@
+#Exercício Python #012 - Calculando Descontos
+
 p = float(input("Qual o preço do produto desejado? "))
 d = int(input("Qual a porcentagem de desconto? "))
 

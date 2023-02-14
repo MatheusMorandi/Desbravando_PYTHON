@@ -1,3 +1,5 @@
+#Exercício Python #020 - Sorteando uma ordem na lista
+
 import random
 
 a1 = str(input("Digite o nome do aluno: "))

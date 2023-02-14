@@ -1,3 +1,5 @@
+#Exercício Python #010 - Conversor de Moedas
+
 v = float(input("Quantos reais(R$) você tem em sua carteira? "))
 
 d = v/4.7

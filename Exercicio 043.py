@@ -1,4 +1,7 @@
+#Exercício Python #043 - Índice de Massa Corporal
+
 m = float(input('Digite seu peso em (Kg): '))
+
 h = float(input('Digite sua altura em (m):'))
 
 imc = m / h**2

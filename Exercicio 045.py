@@ -1,3 +1,5 @@
+#Exercício Python #045 - GAME: Pedra Papel e Tesoura
+
 from random import choice
 
 ch = int(input('''

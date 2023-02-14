@@ -1,3 +1,5 @@
+#Exercício Python #013 - Reajuste Salarial
+
 s = float(input("Qual o valor do seu sálario? "))
 a = int(input("Quantos porcento foi seu aumento? "))
 

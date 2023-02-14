@@ -1,3 +1,5 @@
+#Exercício Python #014 - Conversor de Temperaturas
+
 t = float(input("Digite a temperatura em graus celsius(°C): "))
 
 f = (1.8*t) + 32

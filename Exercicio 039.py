@@ -1,4 +1,7 @@
+#Exercício Python #039 - Alistamento Militar
+
 nasc = int(input('Digite o ano em que você nasceu: '))
+
 ano = int(input('Em que ano estamos? '))
 
 if (ano-nasc)<18:

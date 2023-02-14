@@ -1,4 +1,7 @@
+#Python Exercício #041 - Classificando Atletas
+
 age = int(input('Digite o ano que você nasceu: '))
+
 ano = int(input('Digite em que ano estamos: '))
 
 if (ano - age) < 9:

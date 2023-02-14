@@ -1,3 +1,5 @@
+#Exercício Python #018 - Seno, Cosseno e Tangente
+
 import math
 n = int(input("Digite um ângulo: "))
 

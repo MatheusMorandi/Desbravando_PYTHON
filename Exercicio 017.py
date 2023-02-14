@@ -1,3 +1,5 @@
+#Exercício Python #017 - Catetos e Hipotenusa
+
 import math
 co = float(input("Digite o comprimento do cateto oposto do seu triângulo: "))
 

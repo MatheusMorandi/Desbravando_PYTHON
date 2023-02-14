@@ -1,6 +1,11 @@
+#Exercício Python #050 - Soma dos pares
+
 np = 0
+
 num = 0
+
 p = []
+
 i = 0
 
 for i in range(0,7):

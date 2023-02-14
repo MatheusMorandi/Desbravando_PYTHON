@@ -1,4 +1,4 @@
-
+#Exercício Python #051 - Progressão Aritmética
 
 pt = int(input('Digite o primeiro termo da sua P.A: '))
 
