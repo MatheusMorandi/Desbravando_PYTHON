@@ -1,5 +1,3 @@
-#Exercício Python #002 - Respondendo ao Usuário
+#Exercício Python #001 - Deixando tudo pronto
 
-nome = input ('Qual o seu nome?')
-
-print ('Olá, seja bem vindo',nome,'!')
+print('Hello World!')

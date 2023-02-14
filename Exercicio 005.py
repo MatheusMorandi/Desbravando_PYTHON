@@ -1,4 +1,4 @@
-
+#Exercício Python #005 - Antecessor e Sucessor
 
 print("="*25)
 

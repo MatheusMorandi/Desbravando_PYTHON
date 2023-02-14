@@ -1,4 +1,4 @@
-
+#Exercício Python #003 - Somando dois números
 
 num1 = int (input ('Primeiro número = '))
 
